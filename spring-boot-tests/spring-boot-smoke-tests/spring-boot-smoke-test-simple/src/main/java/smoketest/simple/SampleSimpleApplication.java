@@ -45,4 +45,8 @@ public class SampleSimpleApplication implements CommandLineRunner {
 		SpringApplication.run(SampleSimpleApplication.class, args);
 	}
 
+	public static void annotationTest(){
+
+	}
+
 }
